@@ -10,3 +10,6 @@ Developers and publishers may receive Phun for utilizing Phunware’s Loyalty SD
 
 ## Brands
 Brands will gain access to more relevant, verifiable data by accessing Phunware’s Data Exchange and using Phun for their own loyalty programs."
+
+### Note
+The owner of this smart contract can pause or unpause the token at any time.  
