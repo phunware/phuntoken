@@ -1,7 +1,7 @@
 {
   "name": "PhunToken",
   "version": "1.0.0",
-  "description": "Phunware mintable token - PhunToken",
+  "description": "Phun Token",
   "main": "truffle.js",
   "directories": {
     "test": "test"
@@ -34,7 +34,7 @@
     "solhint": "2.1.0",
     "solidity-coverage": "github:rotcivegaf/solidity-coverage#5875f5b7bc74d447f3312c9c0e9fc7814b482477",
     "solidity-docgen": "^0.3.0-beta.4",
-    "truffle": "^5.0.28"
+    "truffle": "^5.0.28",
     "@openzeppelin/contracts": "^2.3.0"
   },
   "dependencies": {
