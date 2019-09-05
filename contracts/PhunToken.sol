@@ -1,12 +1,11 @@
 pragma solidity 0.5.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20Detailed.sol";
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20Pausable.sol";
 
 
-contract PhunToken is ERC20, ERC20Detailed, ERC20Burnable, ERC20Pausable {
+contract PhunToken is ERC20Detailed, ERC20Burnable, ERC20Pausable {
 
     // modify token name
     string public constant _name = "Phun";
