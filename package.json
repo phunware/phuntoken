@@ -35,9 +35,9 @@
     "solidity-coverage": "github:rotcivegaf/solidity-coverage#5875f5b7bc74d447f3312c9c0e9fc7814b482477",
     "solidity-docgen": "^0.3.0-beta.4",
     "truffle": "^5.0.28",
-    "@openzeppelin/contracts": "^2.3.0"
+    "@openzeppelin/contracts": "^4.4.2"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0"
+    "@openzeppelin/contracts": "^4.4.2"
   }
 }
